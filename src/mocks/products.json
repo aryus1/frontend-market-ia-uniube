@@ -1,0 +1,46 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Arroz",
+      "preco": 5.99,
+      "quantidade": 50,
+      "imagem": "arroz.png"
+    },
+    {
+      "id": 2,
+      "nome": "Feijão",
+      "preco": 4.5,
+      "quantidade": 30,
+      "imagem": "feijao.png"
+    },
+    {
+      "id": 3,
+      "nome": "Açúcar",
+      "preco": 3.75,
+      "quantidade": 40,
+      "imagem": "acucar.png"
+    },
+    {
+      "id": 4,
+      "nome": "Café",
+      "preco": 8.99,
+      "quantidade": 25,
+      "imagem": "cafe.png"
+    },
+    {
+      "id": 5,
+      "nome": "Óleo de Soja",
+      "preco": 6.49,
+      "quantidade": 35,
+      "imagem": "oleoSoja.png"
+    },
+    {
+      "id": 6,
+      "nome": "Macarrão",
+      "preco": 2.99,
+      "quantidade": 60,
+      "imagem": "macarrao.png"
+    }
+  ]
+}
